@@ -22,8 +22,8 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/blinddumper/Dawn-Bot
-cd Dawn-Bot
+git clone https://github.com/LLMotion/DawnBot
+cd DawnBot
 run.bat
 ```
 
@@ -50,7 +50,8 @@ mail:pass2
 
 
 # Showcase💥
-![image](https://github.com/user-attachments/assets/68379282-2e21-4d48-84e9-c0ab0c0ea3f4)
+![image](https://github.com/user-attachments/assets/8efee1cc-01ff-455d-bd12-e891f5bcd1ab)
+
 
 
 
